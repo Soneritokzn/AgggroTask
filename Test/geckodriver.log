@@ -1,0 +1,77 @@
+1671025000234	geckodriver	INFO	Listening on 127.0.0.1:63559
+1671025003304	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63560" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\yatim\\AppData\\Local\\Temp\\rust_mozprofilejcnz8e"
+1671025003567	Marionette	INFO	Marionette enabled
+1671025003571	Marionette	INFO	Listening on port 63569
+WebDriver BiDi listening on ws://127.0.0.1:63560
+Read port: 63569
+1671025003744	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\yatim\\AppData\\Local\\Temp\\rust_mozprofilejcnz8e\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:63560/devtools/browser/a933480f-c316-4207-a206-708115bf8424
+JavaScript error: resource://gre/modules/URIFixup.sys.mjs, line 304: NS_ERROR_FAILURE: Should pass a non-null uri
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://stage2.agggro.private."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://stage2.agggro.private."
+1671025006797	Marionette	INFO	Stopped listening on port 63569
+1671025067425	geckodriver	INFO	Listening on 127.0.0.1:63610
+1671025070506	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63611" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\yatim\\AppData\\Local\\Temp\\rust_mozprofilelxO29O"
+1671025070768	Marionette	INFO	Marionette enabled
+1671025070771	Marionette	INFO	Listening on port 63620
+WebDriver BiDi listening on ws://127.0.0.1:63611
+Read port: 63620
+1671025070954	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\yatim\\AppData\\Local\\Temp\\rust_mozprofilelxO29O\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:63611/devtools/browser/caf3ed12-1462-44a4-b385-d5a7006d8c8e
+JavaScript error: resource://gre/modules/URIFixup.sys.mjs, line 304: NS_ERROR_FAILURE: Should pass a non-null uri
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://stage2.agggro.private."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://stage2.agggro.private."
+1671025113508	Marionette	INFO	Stopped listening on port 63620
+1671026410857	geckodriver	INFO	Listening on 127.0.0.1:63689
+1671026413922	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63690" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\yatim\\AppData\\Local\\Temp\\rust_mozprofiled9CZKK"
+1671026414211	Marionette	INFO	Marionette enabled
+1671026414215	Marionette	INFO	Listening on port 63699
+WebDriver BiDi listening on ws://127.0.0.1:63690
+Read port: 63699
+1671026414359	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\yatim\\AppData\\Local\\Temp\\rust_mozprofiled9CZKK\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:63690/devtools/browser/ee6fdc68-257c-4dbe-bd48-683c4aece8c0
+JavaScript error: resource://gre/modules/URIFixup.sys.mjs, line 304: NS_ERROR_FAILURE: Should pass a non-null uri
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://stage2.agggro.private."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://stage2.agggro.private."
+1671026426941	Marionette	INFO	Stopped listening on port 63699
+1671026871315	geckodriver	INFO	Listening on 127.0.0.1:63763
+1671026874379	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63764" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\yatim\\AppData\\Local\\Temp\\rust_mozprofileYKzscE"
+1671026874621	Marionette	INFO	Marionette enabled
+1671026874624	Marionette	INFO	Listening on port 63773
+WebDriver BiDi listening on ws://127.0.0.1:63764
+Read port: 63773
+1671026874806	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\yatim\\AppData\\Local\\Temp\\rust_mozprofileYKzscE\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:63764/devtools/browser/41f5d55d-48b6-4fde-acc0-1e9069b88926
+JavaScript error: resource://gre/modules/URIFixup.sys.mjs, line 304: NS_ERROR_FAILURE: Should pass a non-null uri
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://stage2.agggro.private."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://stage2.agggro.private."
+1671026887509	Marionette	INFO	Stopped listening on port 63773
+1671027101580	geckodriver	INFO	Listening on 127.0.0.1:63835
+1671027104648	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63836" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\yatim\\AppData\\Local\\Temp\\rust_mozprofile1fx7XS"
+1671027104918	Marionette	INFO	Marionette enabled
+1671027104921	Marionette	INFO	Listening on port 63845
+WebDriver BiDi listening on ws://127.0.0.1:63836
+Read port: 63845
+1671027105099	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\yatim\\AppData\\Local\\Temp\\rust_mozprofile1fx7XS\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:63836/devtools/browser/5836a8b3-2403-41f7-b7fd-2fc2c255b54a
+JavaScript error: resource://gre/modules/URIFixup.sys.mjs, line 304: NS_ERROR_FAILURE: Should pass a non-null uri
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://stage2.agggro.private."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://stage2.agggro.private."
+1671027117919	Marionette	INFO	Stopped listening on port 63845
+1671027132180	geckodriver	INFO	Listening on 127.0.0.1:63909
+1671027135275	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63910" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\yatim\\AppData\\Local\\Temp\\rust_mozprofileE5HyLs"
+1671027135537	Marionette	INFO	Marionette enabled
+1671027135540	Marionette	INFO	Listening on port 63920
+WebDriver BiDi listening on ws://127.0.0.1:63910
+Read port: 63920
+1671027135722	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\yatim\\AppData\\Local\\Temp\\rust_mozprofileE5HyLs\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:63910/devtools/browser/1388a796-2fe6-4017-9118-ed5fb72a6b7b
+JavaScript error: resource://gre/modules/URIFixup.sys.mjs, line 304: NS_ERROR_FAILURE: Should pass a non-null uri
+1671027137860	Marionette	INFO	Stopped listening on port 63920
+[Parent 11544, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
